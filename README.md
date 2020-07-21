@@ -1,6 +1,5 @@
-<p float="center">
- 	<img src="Images/news-scroll.gif" width=40%>
-	<img src="Images/news-slide.gif" width=40%>
+<p align="center">
+ 	<img src="Images/portrait.png" width=80%>
 </p>
 
 # News App (assignment - 2017)
